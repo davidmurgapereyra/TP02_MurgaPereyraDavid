@@ -64,6 +64,13 @@ public class Producto {
 	public void setCategoria(Categoria categoria) {
 		this.categoria = categoria;
 	}
+
+
+
+	public boolean isStock_disponible() {
+		// TODO Auto-generated method stub
+		return false;
+	}
     
     
 }
